@@ -6,7 +6,7 @@ A real-time, AI-enhanced web application designed to assist civilians during eme
 
 > 🔗 Built using **Flask**, **ReactJS**, **OpenRouteService API**, and **JSONBin** for scalable, cloud-based disaster response.
 
-> 🔗 https://evacuationroute-planner.onrender.com
+> 🔗 **Live Deployment** : https://evacuationroute-planner.onrender.com
 ---
 
 ## 📌 Features
@@ -86,16 +86,16 @@ npm start
 ---
 
 ## 📷 Screenshots
-### Home Page               
+### 1.Home Page               
 ![image](https://github.com/user-attachments/assets/e25e33b1-d8c5-4d9b-9485-a09940664d2a)
 
-### Alert Submission       
+### 2.Alert Submission       
 ![{04D4D674-138E-4D32-B5B5-08D18DE0F5CE}](https://github.com/user-attachments/assets/52e72201-7eaa-42b8-af98-914257af4cd1)
 
-### Safe Route
+### 3.Safe Route
 ![image](https://github.com/user-attachments/assets/0dd8587e-eb91-48f2-af56-e90f2c8d4822)
 
-### Volunteer Registeration
+### 4.Volunteer Registeration
 ![image](https://github.com/user-attachments/assets/880fe21a-b9eb-441a-bd76-fcd04aff077d)
 
 ---
