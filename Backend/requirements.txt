@@ -1,0 +1,7 @@
+Flask
+gunicorn
+flask-cors
+geopy
+openrouteservice
+requests
+shapely
